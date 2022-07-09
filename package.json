@@ -4,7 +4,9 @@
   "description": "",
   "main": "src/main.js",
   "dependencies": {
-    "vite": "^2.9.14"
+    "normalize.css": "^8.0.1",
+    "vite": "^2.9.14",
+    "vue": "^3.2.37"
   },
   "devDependencies": {},
   "scripts": {
